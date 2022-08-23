@@ -1,0 +1,6 @@
+{
+  "name": "@tepez/mock-swagger-ui-dist",
+  "version": "0.0.0",
+  "description": "Mock package used to remove swagger-ui-dist package from serverless deployment",
+  "license": "UNLICENSED"
+}
